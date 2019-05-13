@@ -35,18 +35,3 @@ npm run dev
 cd client
 npm run build
 ```
-
-## App Info
-
-### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
-
-### Version
-
-2.0.0
-
-### License
-
-This project is licensed under the MIT License
