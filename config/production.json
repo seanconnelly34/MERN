@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://sean:rivenfan@cluster0-qip2l.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "secret",
+  "githubClientId": "",
+  "githubSecret": ""
+}
